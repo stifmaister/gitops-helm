@@ -14,7 +14,7 @@ spec:
     path: charts/podinfo
     ref: master
   values:
-    image: cecarini/podinfo:stg-9ij63o4c
+    image: cecarini/podinfo:stg-am3bnfsd
     replicaCount: 2
     hpa:
       enabled: true

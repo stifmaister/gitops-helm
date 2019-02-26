@@ -14,7 +14,7 @@ spec:
     path: charts/podinfo
     ref: master
   values:
-    image: cecarini/podinfo:dev-hdtwcel9
+    image: cecarini/podinfo:dev-9sjr1xmf
     replicaCount: 1
     hpa:
       enabled: false
